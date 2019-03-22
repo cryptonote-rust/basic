@@ -1,5 +1,5 @@
 [package]
-name = "basic"
+name = "cryptonote-basic"
 version = "0.1.0"
 authors = ["calidion <calidion@gmail.com>"]
 edition = "2018"
